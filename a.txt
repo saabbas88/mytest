@@ -1,4 +1,9 @@
 Hello
+<<<<<<< HEAD
 welcome
 format
 
+=======
+hi
+Bye
+>>>>>>> 025f051b85f27a4b0e8d22d09d99761240f5294f
