@@ -1,4 +1,6 @@
 class student {
-int id;
+  int id;
+  string gender;
+  boolean active;
 
 }
