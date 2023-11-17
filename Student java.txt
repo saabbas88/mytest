@@ -1,5 +1,5 @@
 class student {
   int id;
-  string name;
-  double fees
+  string gender;
+  booleaan active;
 )
