@@ -1,5 +1,5 @@
 class student {
   int id;
-  stringgender;
-  boolean active:
+ string name;
+ double fee;
 }
