@@ -1,8 +1,0 @@
-hello
-<<<<<<< HEAD
-welcome
-format
-=======
-hi
-bye
->>>>>>> 4db51f759cffdd4e5b11ca5668a08ab5eb9d3b36
