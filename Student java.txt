@@ -1,5 +1,0 @@
-class student {
-  int id;
-  string gender;
-  booleaan active;
-)
