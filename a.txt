@@ -1,2 +1,5 @@
 Hi
 Heloo
+Bye
+welcome
+format
